@@ -1,5 +1,5 @@
 # Basecamp42_SP
-Processo seletivo 42 São Paulo - modelo não presencial.]
+Processo seletivo 42 São Paulo - modelo não presencial.
 
 Code made by me for the selection process of Escolé 42 São Paulo in February 2022.
 
